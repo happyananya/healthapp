@@ -1,0 +1,36 @@
+
+Username : ananya
+Firstname : Ananya
+Surname : Agarwal
+Email Address : ananya.agarwal2014@gmail.com
+Age (in yrs) : 17
+Weight (in kg) : 45
+Height (in cm) : 154
+Gender : Female
+BMI : 18.97
+
+Food Items Consumed   ---   Quantity   ---   Servings   ---   Calories per Serving                                                                                                                                                                                                                          
+Coffee   ---   1 cup   ---   1   ---   70                                                                                                                                                                                                                                                                   
+Total No of Calories Consumed Today = 70                                                                                                                                                                                                                                                                    
+
+
+Deficiency     Probability
+fat            Low
+vitamin_a      Low
+
+
+Foods You Need To Consume More - 
+meat
+dairy products
+egg yolk
+nuts
+butter
+margarine
+cream
+salad oils
+liver
+dark greens
+deep yellow vegetables
+fruits
+
+
